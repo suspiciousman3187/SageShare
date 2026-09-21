@@ -1913,6 +1913,44 @@
       "url": "injections/reisenjima-geas-fete.sage",
       "sha256": "7e993c4a47beaae0296b54d22ad495a2958c548a029f8f6a2b5180ddfa5bbe97",
       "updatedAt": "2026-08-11T14:15:51.006Z"
+    },
+    {
+      "id": "gin",
+      "type": "profile-set",
+      "name": "Gin",
+      "author": "",
+      "version": "1",
+      "count": 6,
+      "profiles": [
+        {
+          "name": "BRD_WHM_",
+          "job": "BRD/WHM"
+        },
+        {
+          "name": "COR_DNC_",
+          "job": "COR/DNC"
+        },
+        {
+          "name": "GEO_WHM_",
+          "job": "GEO/WHM"
+        },
+        {
+          "name": "MNK_DRG_",
+          "job": "MNK/DRG"
+        },
+        {
+          "name": "PLD_RDM_",
+          "job": "PLD/RDM"
+        },
+        {
+          "name": "RDM_WHM_",
+          "job": "RDM/WHM"
+        }
+      ],
+      "description": "For Gin & Kyou",
+      "url": "profiles/gin/v1.sage",
+      "sha256": "ae733a886f9bcf7fc1ef284b9468d3123a883d730f2fcef7d9165a6b68b302bf",
+      "updatedAt": "2026-09-21T23:04:16.202Z"
     }
   ]
 }
