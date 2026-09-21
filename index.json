@@ -538,7 +538,7 @@
           "steps": 1
         }
       ],
-      "url": "injections/coalitions.necro",
+      "url": "injections/coalitions.sage",
       "sha256": "6b002f745d38f05eb9fcd82c5682b6bb38a6e81e7d19db62089bf598c7fd0e6d",
       "updatedAt": "2026-08-11T14:03:24.724Z"
     },
@@ -1613,7 +1613,7 @@
           "steps": 1
         }
       ],
-      "url": "injections/tvr-missions.necro",
+      "url": "injections/tvr-missions.sage",
       "sha256": "78fa46ef1a0ada92bca0f1bc53b2346c6fedc26d99d58592a78ebd739ecf6c55",
       "updatedAt": "2026-08-11T14:05:15.020Z"
     },
@@ -1746,7 +1746,7 @@
           "steps": 1
         }
       ],
-      "url": "injections/htmb-sandoria.necro",
+      "url": "injections/htmb-sandoria.sage",
       "sha256": "01ee9a0f49331e3a755103c4ffbb6e8ff5e17c5213aa3599bad084ecceb06e64",
       "updatedAt": "2026-08-11T14:05:22.041Z"
     },
@@ -1819,7 +1819,7 @@
           "steps": 2
         }
       ],
-      "url": "injections/escha-ruaun-geas-fete.necro",
+      "url": "injections/escha-ruaun-geas-fete.sage",
       "sha256": "d33908fb243a4373e0e8f79e3f26de21504df8baed4426eec94af50e746b879b",
       "updatedAt": "2026-08-11T14:12:50.986Z"
     },
@@ -1910,7 +1910,7 @@
           "steps": 2
         }
       ],
-      "url": "injections/reisenjima-geas-fete.necro",
+      "url": "injections/reisenjima-geas-fete.sage",
       "sha256": "7e993c4a47beaae0296b54d22ad495a2958c548a029f8f6a2b5180ddfa5bbe97",
       "updatedAt": "2026-08-11T14:15:51.006Z"
     }
