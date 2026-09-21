@@ -2,19 +2,6 @@
   "version": 1,
   "packs": [
     {
-      "id": "buy-1-moglophone",
-      "type": "injection",
-      "name": "Buy 1 Moglophone",
-      "author": "",
-      "version": "1",
-      "zone": "Rabao",
-      "npc": "???",
-      "steps": 4,
-      "url": "injections/buy-1-moglophone.necro",
-      "sha256": "c40f4e0391529a685e72ab2b4129a3c0493f99cce59dae22fb02957f0977a6d3",
-      "updatedAt": "2026-08-11T09:29:46.3586943+00:00"
-    },
-    {
       "id": "coalitions",
       "type": "injection-set",
       "name": "Coalitions",
