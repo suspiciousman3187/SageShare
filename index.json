@@ -2084,7 +2084,7 @@
       "type": "profile-set",
       "name": "MNK - Lilith",
       "author": "",
-      "version": "2",
+      "version": "3",
       "count": 6,
       "profiles": [
         {
@@ -2112,12 +2112,13 @@
           "job": "WHM/SCH"
         }
       ],
+      "description": "Lilith VD. \n\nGodhands Preferred. \nUses some 1hrs. But optional. \nBefore pull - Hoxne Berserk Impetus Focus Footwork \nOn pull - Chi blast + Voke, Engage on monk, assisting support will abs-tp\nPhase 1 - Shijin - VS - VS - Repeat \nPhase 2 - Tornado Kick spam. Assisting Supports will Stun.",
       "tags": [
         "htmb"
       ],
-      "url": "profiles/mnk-lilith/v2.sage",
-      "sha256": "a0a8c8b0b7536654bbd78157aa29deba1d0f8d0c8718d02a8fcab52bcf7f325e",
-      "updatedAt": "2026-09-22T16:36:00.592Z"
+      "url": "profiles/mnk-lilith/v3.sage",
+      "sha256": "5b11434fbb678777aae538c2fc3ddf86506fc7a3d8239e6af7c74b74e4a30486",
+      "updatedAt": "2026-09-22T19:56:34.968Z"
     }
   ]
 }
