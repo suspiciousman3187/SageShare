@@ -2078,6 +2078,44 @@
       "url": "profiles/temenos-farming-c2/v1.sage",
       "sha256": "4d62f3c09578d4cb454bd8eb45649004b6787aef3b914f39ce1cfc5a01f05ab4",
       "updatedAt": "2026-09-22T14:16:30.396Z"
+    },
+    {
+      "id": "mnk-lilith",
+      "type": "profile-set",
+      "name": "MNK - Lilith",
+      "author": "",
+      "version": "1",
+      "count": 6,
+      "profiles": [
+        {
+          "name": "BRD_DRK_",
+          "job": "BRD/DRK"
+        },
+        {
+          "name": "COR_DRK_",
+          "job": "COR/DRK"
+        },
+        {
+          "name": "GEO_DRK_",
+          "job": "GEO/DRK"
+        },
+        {
+          "name": "MNK_WAR_",
+          "job": "MNK/WAR"
+        },
+        {
+          "name": "RDM_DRK_",
+          "job": "RDM/DRK"
+        },
+        {
+          "name": "WHM_SCH_",
+          "job": "WHM/SCH"
+        }
+      ],
+      "description": "Lilith VD. \n\nBefore pull - Berserk Focus Impetus Footwork Hoxne\nPull - Run up with pt. Chiblast and provoke. Then engage to trigger supports lock on. \nPhase 1 - Shijin - VS - VS Repeat\nPhase 2 - Tornado Kick Spam",
+      "url": "profiles/mnk-lilith/v1.sage",
+      "sha256": "7dc55adea3c9dc12f4fe2a8a9f66eae97f6b278b9366c68bfcbbd85e229aa487",
+      "updatedAt": "2026-09-22T16:08:12.344Z"
     }
   ]
 }
