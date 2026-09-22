@@ -2036,6 +2036,48 @@
       "url": "profiles/odin/v1.sage",
       "sha256": "5d8ec2580b0cea9b968174f237bf9367b1fdbab3ed9d865139adc5e06c577930",
       "updatedAt": "2026-09-22T14:14:47.923Z"
+    },
+    {
+      "id": "temenos-farming-c2",
+      "type": "profile-set",
+      "name": "Temenos Farming C2",
+      "author": "",
+      "version": "1",
+      "count": 6,
+      "profiles": [
+        {
+          "name": "BRD_DNC_",
+          "job": "BRD/DNC"
+        },
+        {
+          "name": "COR_DNC_",
+          "job": "COR/DNC"
+        },
+        {
+          "name": "GEO_DNC_",
+          "job": "GEO/DNC"
+        },
+        {
+          "name": "MNK_WAR_",
+          "job": "MNK/WAR"
+        },
+        {
+          "name": "RDM_DNC_",
+          "job": "RDM/DNC"
+        },
+        {
+          "name": "WHM_SCH_",
+          "job": "WHM/SCH"
+        }
+      ],
+      "description": "In C2 Temenos turn the corner to pots and sahagins. This will farm units/ep/cp there.",
+      "tags": [
+        "limbus",
+        "farm"
+      ],
+      "url": "profiles/temenos-farming-c2/v1.sage",
+      "sha256": "4d62f3c09578d4cb454bd8eb45649004b6787aef3b914f39ce1cfc5a01f05ab4",
+      "updatedAt": "2026-09-22T14:16:30.396Z"
     }
   ]
 }
