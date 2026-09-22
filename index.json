@@ -1995,6 +1995,47 @@
       "url": "profiles/alex/v1.sage",
       "sha256": "c02bd681fb413c971ec2f7a0481c35df9b8dc0299febaae14776f4eb0f792b7d",
       "updatedAt": "2026-09-22T14:14:44.458Z"
+    },
+    {
+      "id": "odin",
+      "type": "profile-set",
+      "name": "odin",
+      "author": "",
+      "version": "1",
+      "count": 6,
+      "profiles": [
+        {
+          "name": "BRD_DNC_",
+          "job": "BRD/DNC"
+        },
+        {
+          "name": "COR_DNC_",
+          "job": "COR/DNC"
+        },
+        {
+          "name": "GEO_RDM_",
+          "job": "GEO/RDM"
+        },
+        {
+          "name": "MNK_WAR_",
+          "job": "MNK/WAR"
+        },
+        {
+          "name": "RDM_SCH_",
+          "job": "RDM/SCH"
+        },
+        {
+          "name": "WHM_SCH_",
+          "job": "WHM/SCH"
+        }
+      ],
+      "description": "Odin Prime VD: Here you will want to pull as the MNK with provoke then manually do your initial dispel as RDM, then spam Silence until it lands. Make sure your COR is facing Odin as they will contribute to dispels. \n\nI personally do manual WS for the skill chain Shijin > VS > VS",
+      "tags": [
+        "htmb"
+      ],
+      "url": "profiles/odin/v1.sage",
+      "sha256": "5d8ec2580b0cea9b968174f237bf9367b1fdbab3ed9d865139adc5e06c577930",
+      "updatedAt": "2026-09-22T14:14:47.923Z"
     }
   ]
 }
