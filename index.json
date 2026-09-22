@@ -2084,7 +2084,7 @@
       "type": "profile-set",
       "name": "MNK - Lilith",
       "author": "",
-      "version": "1",
+      "version": "2",
       "count": 6,
       "profiles": [
         {
@@ -2112,10 +2112,12 @@
           "job": "WHM/SCH"
         }
       ],
-      "description": "Lilith VD. \n\nBefore pull - Berserk Focus Impetus Footwork Hoxne\nPull - Run up with pt. Chiblast and provoke. Then engage to trigger supports lock on. \nPhase 1 - Shijin - VS - VS Repeat\nPhase 2 - Tornado Kick Spam",
-      "url": "profiles/mnk-lilith/v1.sage",
-      "sha256": "7dc55adea3c9dc12f4fe2a8a9f66eae97f6b278b9366c68bfcbbd85e229aa487",
-      "updatedAt": "2026-09-22T16:08:12.344Z"
+      "tags": [
+        "htmb"
+      ],
+      "url": "profiles/mnk-lilith/v2.sage",
+      "sha256": "a0a8c8b0b7536654bbd78157aa29deba1d0f8d0c8718d02a8fcab52bcf7f325e",
+      "updatedAt": "2026-09-22T16:36:00.592Z"
     }
   ]
 }
