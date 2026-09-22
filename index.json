@@ -1954,6 +1954,47 @@
       "url": "profiles/gin/v1.sage",
       "sha256": "7cfb14f740bdb62e11de11fd99e3494a942cee3cf9f5d70cbbea7c5ee28ab52e",
       "updatedAt": "2026-09-22T02:41:49.024Z"
+    },
+    {
+      "id": "alex",
+      "type": "profile-set",
+      "name": "alex",
+      "author": "",
+      "version": "1",
+      "count": 6,
+      "profiles": [
+        {
+          "name": "BRD_DNC_",
+          "job": "BRD/DNC"
+        },
+        {
+          "name": "COR_DNC_",
+          "job": "COR/DNC"
+        },
+        {
+          "name": "GEO_RDM_",
+          "job": "GEO/RDM"
+        },
+        {
+          "name": "WAR_DRG_",
+          "job": "WAR/DRG"
+        },
+        {
+          "name": "WAR_DRG_",
+          "job": "WAR/DRG"
+        },
+        {
+          "name": "WHM_SCH_",
+          "job": "WHM/SCH"
+        }
+      ],
+      "description": "Alexander Prime: The one main thing about this fight is your starting position. Turn Fast follow off and manually turn the WHM away from your main box(so they run directly back when you pull). Then You are good to just manually use warcry on your two WAR after full dispell.",
+      "tags": [
+        "htmb"
+      ],
+      "url": "profiles/alex/v1.sage",
+      "sha256": "c02bd681fb413c971ec2f7a0481c35df9b8dc0299febaae14776f4eb0f792b7d",
+      "updatedAt": "2026-09-22T14:14:44.458Z"
     }
   ]
 }
