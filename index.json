@@ -2125,7 +2125,7 @@
       "type": "profile-set",
       "name": "Bumba",
       "author": "",
-      "version": "1",
+      "version": "2",
       "count": 6,
       "profiles": [
         {
@@ -2154,9 +2154,9 @@
         }
       ],
       "description": "Bumba V20 \n\nSavage blade. \nStart WAR on Great Axe, profile Armor breaks > Switch to sword set > savages. So update trigger to your gs c set weapons \"X\". \nUse wild card / random deal manually throughout. Sacrosanctity starting at 70% and reset it to last fight. Asylum near end if tricky. \n\nONE HOURS OPTIONAL. Can uncheck one hours and still win with right RNG. \n\nPull with Silence. Stymie silence always lands. \nYaegasumi trigger doesnt seem to work, Sorry.",
-      "url": "profiles/bumba/v1.sage",
-      "sha256": "e90823648e0af904d18e082f4fcbafefe6a10b4d75647efdf18ec35706fa8e01",
-      "updatedAt": "2026-09-28T01:19:03.656Z"
+      "url": "profiles/bumba/v2.sage",
+      "sha256": "de75d2c0e559b15d51bf5e8b5e10271ccb3dc4a64e5daec76480e5a2e796ff3a",
+      "updatedAt": "2026-09-28T02:00:27.702Z"
     }
   ]
 }
