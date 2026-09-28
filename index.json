@@ -2119,6 +2119,44 @@
       "url": "profiles/mnk-lilith/v3.sage",
       "sha256": "5b11434fbb678777aae538c2fc3ddf86506fc7a3d8239e6af7c74b74e4a30486",
       "updatedAt": "2026-09-22T19:56:34.968Z"
+    },
+    {
+      "id": "bumba",
+      "type": "profile-set",
+      "name": "Bumba",
+      "author": "",
+      "version": "1",
+      "count": 6,
+      "profiles": [
+        {
+          "name": "BRD_DNC_",
+          "job": "BRD/DNC"
+        },
+        {
+          "name": "COR_DNC_",
+          "job": "COR/DNC"
+        },
+        {
+          "name": "DRG_WAR_",
+          "job": "DRG/WAR"
+        },
+        {
+          "name": "RDM_DNC_",
+          "job": "RDM/DNC"
+        },
+        {
+          "name": "WAR_DRG_",
+          "job": "WAR/DRG"
+        },
+        {
+          "name": "WHM_SCH_",
+          "job": "WHM/SCH"
+        }
+      ],
+      "description": "Bumba V20 \n\nSavage blade. \nStart WAR on Great Axe, profile Armor breaks > Switch to sword set > savages. So update trigger to your gs c set weapons \"X\". \nUse wild card / random deal manually throughout. Sacrosanctity starting at 70% and reset it to last fight. Asylum near end if tricky. \n\nONE HOURS OPTIONAL. Can uncheck one hours and still win with right RNG. \n\nPull with Silence. Stymie silence always lands. \nYaegasumi trigger doesnt seem to work, Sorry.",
+      "url": "profiles/bumba/v1.sage",
+      "sha256": "e90823648e0af904d18e082f4fcbafefe6a10b4d75647efdf18ec35706fa8e01",
+      "updatedAt": "2026-09-28T01:19:03.656Z"
     }
   ]
 }
